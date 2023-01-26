@@ -59983,3 +59983,4 @@
         n.CocosEngine = cc.ENGINE_VERSION = "2.2.2"
     }), {}]
 }, {}, [422]);# jwhGame
+# jwhGame
